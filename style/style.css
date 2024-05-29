@@ -1,0 +1,69 @@
+* {
+    font-family: "Open Sans", sans-serif;
+}
+
+.logo-img {
+    width: 60px;
+}
+
+
+.navbar a {
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+
+}
+
+.navbar {
+    background-color: #ffffff !;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.3);
+}
+
+#banner {
+    background-color: #f0ecec !important;
+}
+
+.banner-content {
+    /* background-color: #f0ecec !important; */
+    border-radius: 15px;
+}
+
+.banner-img {
+    width: 50%;
+}
+
+.banner-txt {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    color: rgb(51, 51, 51);
+}
+
+.c {
+    margin-bottom: 10px;
+    /* border: 1px solid red; */
+}
+
+.meal-link {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#food-container {
+    padding: 50px;
+    background-color: rgb(233, 245, 245);
+    border-radius: 15px;
+}
+
+.intgredient {
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    color: rgb(51, 51, 51);
+}
+
+.list-container {
+    list-style: none;
+}
+
+.list-container li>i {
+    color: rgb(255, 7, 152);
+}
